@@ -7,55 +7,38 @@
 <table>
   <tr>
     <td align="center" width="80">
-      <img src="https://skillicons.dev/icons?i=js" alt="JavaScript" width="32" height="32" /><br>JavaScript
-    </td>
-    <td align="center" width="80">
-      <img src="https://skillicons.dev/icons?i=react" alt="React.js" width="32" height="32" /><br>React.js
-    </td>
-    <td align="center" width="80">
-      <img src="https://skillicons.dev/icons?i=vue" alt="Vue.js" width="32" height="32" /><br>Vue.js
-    </td>
-    <td align="center" width="80">
       <img src="https://skillicons.dev/icons?i=angular" alt="Angular" width="32" height="32" /><br>Angular
     </td>
     <td align="center" width="80">
       <img src="https://skillicons.dev/icons?i=nextjs" alt="Next.js" width="32" height="32" /><br>Next.js
     </td>
     <td align="center" width="80">
-      <img src="https://skillicons.dev/icons?i=react" alt="React Native" width="32" height="32" /><br>R.Native
+      <img src="https://skillicons.dev/icons?i=svelte" alt="Svelte" width="32" height="32" /><br>Svelte
     </td>
     <td align="center" width="80">
-      <img src="https://skillicons.dev/icons?i=electron" alt="Electron" width="32" height="32" /><br>Electron
+      <img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" width="32" height="32" /><br>Node.js
     </td>
     <td align="center" width="80">
-      <img src="https://skillicons.dev/icons?i=tauri" alt="Tauri" width="32" height="32" /><br>Tauri
+      <img src="https://skillicons.dev/icons?i=postgres" alt="PostgreSQL" width="32" height="32" /><br>PostgreSQL
     </td>
   </tr>
   <tr>
     <td align="center" width="80">
-      <img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" width="32" height="32" /><br>Node.js
+      <img src="https://skillicons.dev/icons?i=java" alt="Java" width="32" height="32" /><br>Java
+    </td>
+    <td align="center" width="80">
+      <img src="https://skillicons.dev/icons?i=spring" alt="Spring Boot" width="32" height="32" /><br>Spring Boot
+    </td>
+    <td align="center" width="80">
+      <img src="https://skillicons.dev/icons?i=kafka" alt="Kafka" width="32" height="32" /><br>Kafka
     </td>
     <td align="center" width="80">
       <img src="https://skillicons.dev/icons?i=python" alt="Python" width="32" height="32" /><br>Python
     </td>
     <td align="center" width="80">
-      <img src="https://skillicons.dev/icons?i=go" alt="Golang" width="32" height="32" /><br>Golang
+      <img src="https://skillicons.dev/icons?i=flask" alt="Flask" width="32" height="32" /><br>Flask
     </td>
-    <td align="center" width="80">
-      <img src="https://skillicons.dev/icons?i=rust" alt="Rust" width="32" height="32" /><br>Rust
-    </td>
-    <td align="center" width="80">
-      <img src="https://skillicons.dev/icons?i=solidity" alt="Solidity" width="32" height="32" /><br>Solidity
-    </td>
-    <td align="center" width="80">
-      <img src="https://skillicons.dev/icons?i=postgres" alt="SQL" width="32" height="32" /><br>SQL
-    </td>
-    <td align="center" width="80">
-      <img src="https://skillicons.dev/icons?i=firebase" alt="Firebase" width="32" height="32" /><br>Firebase
-    </td>
-    <td align="center" width="80">
-      <img src="https://skillicons.dev/icons?i=vercel" alt="Vercel" width="32" height="32" /><br>Vercel
-    </td>
+
   </tr>
 </table>
 
@@ -63,7 +46,7 @@
 <h2>Projects</h2>
 <table>
   <tr>
-    <td><a href="https://github.com/brknl28/kebap-nextjs-tailwind">Next.js Website</a></td>
+    <td><a href="https://github.com/brknl28/signal-grid">Signal Grid Angular Java</a></td>
     <td><a href="https://github.com/brknl28/electron-react-fluentui">Electron WinUI 3 Boilerplate</a></td>
     <td><a href="https://github.com/brknl28/colorful-notes">JavaScript Notes App</a></td>
     <td><a href="https://github.com/brknl28/kelebek-radix-recharts">Radix Recharts Dashboard</a></td>
