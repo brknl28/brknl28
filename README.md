@@ -21,15 +21,3 @@
     <td align="center" width="170"><img src="https://skillicons.dev/icons?i=flask" alt="Flask" width="48" height="48" /><br><b>Flask</b></td>
   </tr>
 </table>
-
-<!-- Projects Section -->
-## Projects
-
-<table>
-  <tr>
-    <td align="center" width="212"><a href="https://github.com/brknl28/signal-grid"><b>Signal Grid Angular Java</b></a></td>
-    <td align="center" width="212"><a href="https://github.com/brknl28/electron-react-fluentui"><b>Electron WinUI 3</b></a></td>
-    <td align="center" width="212"><a href="https://github.com/brknl28/colorful-notes"><b>JavaScript Notes App</b></a></td>
-    <td align="center" width="212"><a href="https://github.com/brknl28/kelebek-radix-recharts"><b>Radix Recharts Dashboard</b></a></td>
-  </tr>
-</table>
