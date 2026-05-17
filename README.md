@@ -1,1 +1,1 @@
-Full Stack Developer with a strong frontend focus, UI and UX background, and product-oriented mindset; experienced in building web, mobile, desktop, real-time, subscription-based, and IoT products.
+Full Stack Developer with frontend focus, UI and UX background, product mindset, and deep AI-assisted development experience; building web, mobile, desktop, real-time, subscription-based, and IoT products.
